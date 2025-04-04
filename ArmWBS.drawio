@@ -88,6 +88,11 @@
             <mxPoint x="520" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="y6ZsIbJDHpcvQN1jzFES-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y6ZsIbJDHpcvQN1jzFES-6" target="y6ZsIbJDHpcvQN1jzFES-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="y6ZsIbJDHpcvQN1jzFES-6" value="Simulation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="110" width="120" height="60" as="geometry" />
         </mxCell>
@@ -153,14 +158,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y6ZsIbJDHpcvQN1jzFES-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6ZsIbJDHpcvQN1jzFES-20" target="y6ZsIbJDHpcvQN1jzFES-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="y6ZsIbJDHpcvQN1jzFES-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6ZsIbJDHpcvQN1jzFES-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279.9999999999999" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="y6ZsIbJDHpcvQN1jzFES-20" value="Link Selections" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y6ZsIbJDHpcvQN1jzFES-21" value="Joints" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y6ZsIbJDHpcvQN1jzFES-23" value="Component Selection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
@@ -168,13 +172,13 @@
         <mxCell id="y6ZsIbJDHpcvQN1jzFES-26" value="Circuit Diagram" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y6ZsIbJDHpcvQN1jzFES-27" value="NO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y6ZsIbJDHpcvQN1jzFES-27" value="Testing Arm Integration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y6ZsIbJDHpcvQN1jzFES-29" value="NO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y6ZsIbJDHpcvQN1jzFES-29" value="Importing Arm Model to Simulator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y6ZsIbJDHpcvQN1jzFES-31" value="Simulation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y6ZsIbJDHpcvQN1jzFES-31" value="Simulating Control Algorithm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y6ZsIbJDHpcvQN1jzFES-33" value="Integration with the Rover" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -188,6 +192,9 @@
         </mxCell>
         <mxCell id="y6ZsIbJDHpcvQN1jzFES-39" value="Marker Tracking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y6ZsIbJDHpcvQN1jzFES-41" value="Setup Simulation Environment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
