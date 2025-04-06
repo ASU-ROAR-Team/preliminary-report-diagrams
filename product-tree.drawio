@@ -587,7 +587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j4-nbXcYoFxU9R3YcbHp" name="WBS">
-    <mxGraphModel dx="1444" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2017,7 +2017,7 @@
         <mxCell id="u17uyWMxMoxJav1oCexW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rkz6XHHlqNQHrUXKvhBw-5" target="Rkz6XHHlqNQHrUXKvhBw-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rkz6XHHlqNQHrUXKvhBw-5" value="8. Science Task" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#980000, #AD7777);strokeColor=default;fontStyle=1;fontSize=18;fontColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;spacing=1;" parent="1" vertex="1">
+        <mxCell id="Rkz6XHHlqNQHrUXKvhBw-5" value="8. Science" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#980000, #AD7777);strokeColor=default;fontStyle=1;fontSize=18;fontColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;spacing=1;" parent="1" vertex="1">
           <mxGeometry x="1384.91" y="2500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rkz6XHHlqNQHrUXKvhBw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=1;" parent="1" source="Rkz6XHHlqNQHrUXKvhBw-9" target="Rkz6XHHlqNQHrUXKvhBw-10" edge="1">
@@ -2113,6 +2113,430 @@
         </mxCell>
         <mxCell id="Rkz6XHHlqNQHrUXKvhBw-37" value="&lt;div&gt;8.4.3. Results Reporting&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=17;rounded=1;fontStyle=1;strokeColor=light-dark(#000000,#F5F5F5);align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=light-dark(#000000,#000000);fillColor=#FFFFFF;spacing=1;" parent="1" vertex="1">
           <mxGeometry x="1623.9999999999998" y="2840" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="OBS - FINAL DRAFT" id="kU2LmpHzI4OWeOLbiqTD">
+    <mxGraphModel dx="1985" dy="3726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-54" target="k-aGEzG4LrJGoCAT_cUL-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-54" target="Juf2yomTsx4XNreJfSJN-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-54" target="Juf2yomTsx4XNreJfSJN-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-54" target="Juf2yomTsx4XNreJfSJN-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Z4n3mnKnEdZqS-omKwO-54" value="Abdelghaffar Essam&lt;br&gt;(Team Captain)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000, #AD7777);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-2140" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4Z4n3mnKnEdZqS-omKwO-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;Overall Project (1-8), High-level Integration (e.g., 6.2.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="4Z4n3mnKnEdZqS-omKwO-54">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f5xs8USIMpyLIHv7YBZ6-46" value="Mohamed Alaa&lt;br&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;Robotics Leader&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-1750" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f5xs8USIMpyLIHv7YBZ6-47" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;6-Axis Robotic Manipulator (2), Sim/Test (6)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="f5xs8USIMpyLIHv7YBZ6-46">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k-aGEzG4LrJGoCAT_cUL-45" value="Robotics Team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-1880" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k-aGEzG4LrJGoCAT_cUL-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Collective:&lt;/u&gt;&lt;/i&gt;&amp;nbsp;Arm Integration Testing (6.2.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="k-aGEzG4LrJGoCAT_cUL-45">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C2pCBJ_AKEK1spglJZ4q-49" value="Abdullah Fahim&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Robotics Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-1620" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C2pCBJ_AKEK1spglJZ4q-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Arm Mech Design (2.1.1), Links (2.1.1.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="C2pCBJ_AKEK1spglJZ4q-49">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-48" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Ann Wafik&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Robotics Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-1490" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-49" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Arm Mech Design (2.1.1), End Effector (2.1.1.4)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="iw8LEnEpAa3L1gX0ldUa-48">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="f5xs8USIMpyLIHv7YBZ6-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="C2pCBJ_AKEK1spglJZ4q-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="iw8LEnEpAa3L1gX0ldUa-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-54" value="&lt;font&gt;Basmala Ahmed&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Robotics Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-1360" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Arm Manu (2.1.2), End Effector Mfg (2.1.2.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="iw8LEnEpAa3L1gX0ldUa-54">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-56" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Hamza Ahmed&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Robotics Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-1230" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-57" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Arm Electrical (2.2), Components (2.2.1.1)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="iw8LEnEpAa3L1gX0ldUa-56">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-58" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Yassien Ayman&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Robotics Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-1104" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-59" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Arm High Level (2.3), Perception (2.3.1), Localization (2.3.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="iw8LEnEpAa3L1gX0ldUa-58">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-60" value="Youssef Mohamed&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Robotics Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-974" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-61" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Arm High Level (2.3), Control (2.3.2), Simulation (2.3.4)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="iw8LEnEpAa3L1gX0ldUa-60">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="iw8LEnEpAa3L1gX0ldUa-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="iw8LEnEpAa3L1gX0ldUa-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="iw8LEnEpAa3L1gX0ldUa-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iw8LEnEpAa3L1gX0ldUa-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="iw8LEnEpAa3L1gX0ldUa-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-50" value="&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Alli Ahmed&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;Drone Leader&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1750" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-51" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Drone (3), Sim/Test (6)&lt;/span&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-50">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-52" value="Drone Team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1880" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Collective:&lt;/u&gt;&lt;/i&gt;&amp;nbsp;Drone Integration Testing (6.2.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-52">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-54" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Adel Wessam&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Drone Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1620" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Drone Mech (3.1), Drone Elec (3.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-54">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-56" value="Philopateer H.&amp;nbsp; &lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Drone&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1490" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-57" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Drone High Level (3.3) - Localization, Navigation&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-56">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-53" target="Juf2yomTsx4XNreJfSJN-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-53" target="Juf2yomTsx4XNreJfSJN-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-53" target="Juf2yomTsx4XNreJfSJN-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-61" value="&lt;font&gt;Ziad Zaitoun&amp;nbsp; &lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Drone&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1360" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-62" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Drone High Level (3.3) - Perception, Drone Comms (3.4)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-61">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-53" target="Juf2yomTsx4XNreJfSJN-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-77" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Amin Fadel&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(77, 77, 77); line-height: 80%;&quot;&gt;Autonomous Leader&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-1750" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-78" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;1.4, 7.1, 7.2, Sim/Test (6)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-77">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-79" value="Autonomous Team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-1880" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-80" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Collective:&lt;/u&gt;&lt;/i&gt;&amp;nbsp;Integration (6.2.2), Field Test (6.2.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-79">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-81" value="Abdelrahman Hany&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Autonomous Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-1620" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-82" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Research (1.4.1.1),&amp;nbsp; Obstacle Detection (1.4.1.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-81">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-83" value="&amp;nbsp; Ahmed Yasser&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Autonomous&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-1490" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-84" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Research (1.4.1.1), Landmark Detection(1.4.1.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-83">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-88" value="&lt;font&gt;&amp;nbsp;Carol Rimoun&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Autonomous&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-1360" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-89" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Research (1.4.1.1), Sample Detection(1.4.1.4)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-88">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-90" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;Hassan Abdallah&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Autonomous&amp;nbsp;Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-1230" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-91" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Localization (1.4.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-90">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-92" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Omar Magdy&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Autonomous Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-1104" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-93" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Path Planning (1.4.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-92">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-94" value="Roger Sherif&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Autonomous&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-974" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-95" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Localization (1.4.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-94">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-103" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Ahmed Osama&amp;nbsp; &lt;span style=&quot;color: rgb(77, 77, 77);&quot;&gt;Electrical&lt;/span&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(77, 77, 77); line-height: 80%;&quot;&gt;Leader&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-1750" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-104" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;1.2, 1.3, 7.3, Coord (2.2, 3.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-103">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-105" value="Electrical Team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-1880" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-106" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Collective:&lt;/u&gt;&lt;/i&gt;&amp;nbsp;Integration Test (6.2.2), Component Test (6.2.1)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-105">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-107" value="Adham Ehab&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Electrical Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-1620" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-108" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Main PCB (1.3.1), Electrical Kit (1.3.6)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-107">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-109" value="&amp;nbsp; Ainour Hesham&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Electrical&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-1490" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-110" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Tractive System (1.3.2), Motor Control (1.2.1.2, 1.2.1.4)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-109">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-114" value="&lt;font&gt;&amp;nbsp;Marwan Ashraf&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Electrical&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-1360" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-115" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Safety Systems (1.3.3), Power Source (1.3.4)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-114">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-116" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Mohammed Y.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Electrical&amp;nbsp;Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-1230" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-117" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Safety Systems (1.3.3), Power Source (1.3.4)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-116">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-118" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Yousef Ali&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Electrical&amp;nbsp;Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-1104" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-119" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Data Acquisition (1.2.2), Sensors (1.2.2.1, 1.2.2.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-118">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-120" value="Youssef Seyam&amp;nbsp; &lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Electrical&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-974" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-121" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;Low Level Control uC (1.2.1.1), Control Station Comms (7.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-120">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-126" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Nayera Khaled&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(77, 77, 77);&quot;&gt;Mechanical&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(77, 77, 77); line-height: 80%;&quot;&gt;Leader&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1750" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-127" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;1.1 Overall, Sim/Test (6)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-126">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-128" value="Mechanical Team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1880" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-129" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Collective:&lt;/u&gt;&lt;/i&gt;&amp;nbsp;Mechanical Integration (6.2.2), Field Testing (6.2.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-128">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-130" value="Abdelrahman A.&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Mechanical Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1620" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-131" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Chassis (1.1.4)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-130">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-132" value="&amp;nbsp; Kirolous Ashraf&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Mechanical&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1490" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-133" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Mobility System (1.1.1), Wheel Assy (1.1.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-132">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-137" value="&lt;font&gt;&amp;nbsp;Mariam Emad&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Mechanical&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1360" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-138" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Tires (1.1.3), Storage Mech (1.1.5)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-137">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-139" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Mariam M.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Mechanical Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1230" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-140" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Fixations (1.1.7), Manufacturing Support&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-139">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-141" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Nadine Tarek&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Mechanical&amp;nbsp;Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1104" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-142" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Storage Mechanism (1.1.5), Storage Manu.(1.1.8.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-141">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-143" value="Yassin Haddad&amp;nbsp; &lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Mechanical&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-974" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-144" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Drilling Mechanism (1.1.6), Drilling Manu. (1.1.8.4)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-143">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-149" value="&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Nabil Fouda&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;Science Leader&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-1750" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-150" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;Science (8), Test (6)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-149">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-151" value="Science Team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-1880" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-152" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Collective:&lt;/u&gt;&lt;/i&gt;&amp;nbsp;Science Ops Testing (6.2.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-151">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-153" value="Abdelrahman T.&amp;nbsp; &lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Science Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-1620" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-154" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Sample Analysis (8.1), Geological Assess (8.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-153">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-155" value="&amp;nbsp; Ahmed Medhat&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Science Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-1490" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-156" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Life Detection (8.3), Science Ops (8.4)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-155">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-152" target="Juf2yomTsx4XNreJfSJN-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-152" target="Juf2yomTsx4XNreJfSJN-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Juf2yomTsx4XNreJfSJN-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-152" target="Juf2yomTsx4XNreJfSJN-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-1" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Ingy Ahmed&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;Project Coordinator&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-1750" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;Documentation (4), Testing Coord (6), Control Station GUI (7.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="OAI0SGLD_P9tGuehfoy9-1">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-3" value="&amp;nbsp; &amp;nbsp; Elham Mady&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Procurement Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-1620" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Supplier contact (relates to 5.2.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="OAI0SGLD_P9tGuehfoy9-3">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-5" value="&amp;nbsp;Hana Mohamed&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Fundraising Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-1490" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Applying Funding (5.1), Deals with Partners (5.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="OAI0SGLD_P9tGuehfoy9-5">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-8" value="&amp;nbsp; &amp;nbsp; Hussein Walid&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Media Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-1360" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;Social Media, Outreach Doc (4.1.2), Video Material (4.1.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="OAI0SGLD_P9tGuehfoy9-8">
+          <mxGeometry y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAI0SGLD_P9tGuehfoy9-2" target="OAI0SGLD_P9tGuehfoy9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAI0SGLD_P9tGuehfoy9-2" target="OAI0SGLD_P9tGuehfoy9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAI0SGLD_P9tGuehfoy9-2" target="OAI0SGLD_P9tGuehfoy9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-55" target="OAI0SGLD_P9tGuehfoy9-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="-1954" />
+              <mxPoint x="1590" y="-1954" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-55" target="Juf2yomTsx4XNreJfSJN-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAI0SGLD_P9tGuehfoy9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-55" target="Juf2yomTsx4XNreJfSJN-128">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2436,430 +2860,6 @@
         </mxCell>
         <mxCell id="yghnkKpzGzfsLPt6T6Mo-3" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Omar Magdy&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;WBS:&lt;/u&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Path Planning (1.4.3)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=light-dark(#000000,#F5F5F5);rounded=1;align=center;verticalAlign=middle;spacing=1;fontFamily=Helvetica;fontSize=17;fontColor=light-dark(#000000,#000000);fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1030" width="200" height="80" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="OBS - FINAL DRAFT" id="kU2LmpHzI4OWeOLbiqTD">
-    <mxGraphModel dx="1985" dy="3726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-54" target="k-aGEzG4LrJGoCAT_cUL-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-54" target="Juf2yomTsx4XNreJfSJN-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-54" target="Juf2yomTsx4XNreJfSJN-151">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-54" target="Juf2yomTsx4XNreJfSJN-79">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4Z4n3mnKnEdZqS-omKwO-54" value="Abdelghaffar Essam&lt;br&gt;(Team Captain)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000, #AD7777);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-2140" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="4Z4n3mnKnEdZqS-omKwO-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;u style=&quot;font-weight: 400;&quot;&gt;WBS:&lt;/u&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;Overall Project (1-8), High-level Integration (e.g., 6.2.2)&lt;/span&gt;&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="4Z4n3mnKnEdZqS-omKwO-54">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="f5xs8USIMpyLIHv7YBZ6-46" value="Mohamed Alaa&lt;br&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;Robotics Team Leader&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-1750" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="f5xs8USIMpyLIHv7YBZ6-47" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;6-Axis Robotic Manipulator (2), Sim/Test (6)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="f5xs8USIMpyLIHv7YBZ6-46">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k-aGEzG4LrJGoCAT_cUL-45" value="Robotics Team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-1880" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="k-aGEzG4LrJGoCAT_cUL-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Collective:&lt;/u&gt;&lt;/i&gt;&amp;nbsp;Arm Integration Testing (6.2.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="k-aGEzG4LrJGoCAT_cUL-45">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C2pCBJ_AKEK1spglJZ4q-49" value="Abdullah Fahim&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Robotics Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-1620" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="C2pCBJ_AKEK1spglJZ4q-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="C2pCBJ_AKEK1spglJZ4q-49">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-48" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Ann Wafik&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Robotics Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-1490" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-49" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="iw8LEnEpAa3L1gX0ldUa-48">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="f5xs8USIMpyLIHv7YBZ6-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="C2pCBJ_AKEK1spglJZ4q-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="iw8LEnEpAa3L1gX0ldUa-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-54" value="&lt;font&gt;Basmala Ahmed&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Robotics Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-1360" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="iw8LEnEpAa3L1gX0ldUa-54">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-56" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Hamza Ahmed&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Robotics Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-1230" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-57" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="iw8LEnEpAa3L1gX0ldUa-56">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-58" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Yassien Ayman&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Robotics Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-1104" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-59" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="iw8LEnEpAa3L1gX0ldUa-58">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-60" value="Youssef Mohamed&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Robotics Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-974" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-61" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="iw8LEnEpAa3L1gX0ldUa-60">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="iw8LEnEpAa3L1gX0ldUa-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="iw8LEnEpAa3L1gX0ldUa-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="iw8LEnEpAa3L1gX0ldUa-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iw8LEnEpAa3L1gX0ldUa-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-aGEzG4LrJGoCAT_cUL-46" target="iw8LEnEpAa3L1gX0ldUa-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-50" value="&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Alli Ahmed&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;Drone Team Leader&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1750" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-51" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Drone (3), Sim/Test (6)&lt;/span&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-50">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-52" value="Drone Team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1880" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Collective:&lt;/u&gt;&lt;/i&gt;&amp;nbsp;Drone Integration Testing (6.2.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-52">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-54" value="Abdullah Fahim&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Drone Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1620" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-54">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-56" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Ann Wafik&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Drone&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1490" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-57" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-56">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-53" target="Juf2yomTsx4XNreJfSJN-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-53" target="Juf2yomTsx4XNreJfSJN-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-53" target="Juf2yomTsx4XNreJfSJN-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-61" value="&lt;font&gt;Basmala Ahmed&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Drone&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1360" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-62" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-61">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-53" target="Juf2yomTsx4XNreJfSJN-61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-77" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Amin Fadel&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(77, 77, 77); line-height: 80%;&quot;&gt;Autonomous Leader&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-1750" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-78" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;1.4, 7.1, 6.1&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-77">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-79" value="Autonomous Team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-1880" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-80" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Collective:&lt;/u&gt;&lt;/i&gt;&amp;nbsp;1.4.1.5, 6.2.2, 6.2.3&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-79">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-81" value="Abdelrahman Hany&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Autonomous Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-1620" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-82" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-81">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-83" value="&amp;nbsp; Ahmed Yasser&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Autonomous&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-1490" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-84" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-83">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-77">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-84">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-88" value="&lt;font&gt;&amp;nbsp;Carol Rimoun&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Autonomous&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-1360" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-89" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-88">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-90" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;Hassan Abdallah&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Autonomous&amp;nbsp;Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-1230" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-91" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-90">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-92" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Omar Magdy&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Autonomous Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-1104" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-93" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-92">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-94" value="Roger Sherif&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Autonomous&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-974" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-95" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-94">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-88">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-90">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-80" target="Juf2yomTsx4XNreJfSJN-94">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-103" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Ahmed Osama&amp;nbsp; &lt;span style=&quot;color: rgb(77, 77, 77);&quot;&gt;Electrical&lt;/span&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(77, 77, 77); line-height: 80%;&quot;&gt;Leader&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1750" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-104" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;1.2, 1.3, 7.3, Coord (2.2, 3.2)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-103">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-105" value="Electrical Team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1880" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-106" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Collective:&lt;/u&gt;&lt;/i&gt;&amp;nbsp;6.2.2, 6.2.1&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-105">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-107" value="Adham Osama&amp;nbsp; &lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Electrical Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1620" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-108" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-107">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-109" value="&amp;nbsp; Ainour Hesham&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Electrical&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1490" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-110" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-109">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-103">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-107">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-110">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-114" value="&lt;font&gt;&amp;nbsp;Marwan Ashraf&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Electrical&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1360" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-115" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-114">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-116" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Mohammed Y.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Electrical&amp;nbsp;Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1230" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-117" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-116">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-118" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Yousef Ali&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Electrical&amp;nbsp;Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-1104" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-119" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-118">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-120" value="Youssef Seyam&amp;nbsp; &lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Electrical&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-974" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-121" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-120">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-114">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-116">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-119">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-106" target="Juf2yomTsx4XNreJfSJN-120">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-126" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Nayera Khaled&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(77, 77, 77);&quot;&gt;Mechanical&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(77, 77, 77); line-height: 80%;&quot;&gt;Leader&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-1750" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-127" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;Rover Mechanical&amp;nbsp;1.1, Sim/Test (6)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-126">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-128" value="Mechanical Team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-1880" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-129" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Collective:&lt;/u&gt;&lt;/i&gt;&amp;nbsp;Mechanical Integration (6.2.2), Field Testing (6.2.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-128">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-130" value="Abdelrahman A.&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Mechanical Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-1620" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-131" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-130">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-132" value="&amp;nbsp; Kirolous Ashraf&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Mechanical&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-1490" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-133" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-132">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-126">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-130">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-133">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-137" value="&lt;font&gt;&amp;nbsp;Mariam Emad&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Mechanical&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-1360" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-138" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-137">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-139" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Mariam M.&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Mechanical Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-1230" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-140" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-139">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-141" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Nadine Tarek&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Mechanical&amp;nbsp;Member&lt;/span&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-1104" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-142" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-141">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-143" value="Yassin Haddad&amp;nbsp; &lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Mechanical&amp;nbsp;Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-974" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-144" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-143">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-137">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-139">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-142">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-129" target="Juf2yomTsx4XNreJfSJN-143">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-149" value="&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Nabil Fouda&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;Drone Team Leader&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="-1750" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-150" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;Science (8), Test (6)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-149">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-151" value="Science Team" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#980000,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="-1880" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-152" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Collective:&lt;/u&gt;&lt;/i&gt;&amp;nbsp;Science Ops Testing (6.2.3)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-151">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-153" value="Abdelrahman T.&amp;nbsp; &lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Science Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="-1620" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-154" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-153">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-155" value="&amp;nbsp; Ahmed Medhat&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Science Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="-1490" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-156" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="Juf2yomTsx4XNreJfSJN-155">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-152" target="Juf2yomTsx4XNreJfSJN-149">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-152" target="Juf2yomTsx4XNreJfSJN-153">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Juf2yomTsx4XNreJfSJN-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Juf2yomTsx4XNreJfSJN-152" target="Juf2yomTsx4XNreJfSJN-156">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-1" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Ingy Ahmed&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;Project Coordinator&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#F99A95,#800000);fontColor=#000000;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="-1750" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS:&lt;/u&gt;&amp;nbsp;6-Axis Robotic Manipulator (2), Sim/Test (6)&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="OAI0SGLD_P9tGuehfoy9-1">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-3" value="&amp;nbsp; &amp;nbsp; Elham Mady&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Procurement Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="-1620" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="OAI0SGLD_P9tGuehfoy9-3">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-5" value="&amp;nbsp;Hana Mohamed&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Fundraising Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="-1490" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="OAI0SGLD_P9tGuehfoy9-5">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-8" value="&amp;nbsp; &amp;nbsp; Hussein Walid&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(204, 204, 204); background-color: transparent;&quot;&gt;Media Member&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=18;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=light-dark(#4D4D4D,#800000);fontColor=#FFFFFF;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="-1360" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;&quot;&gt;WBS: &lt;/u&gt;2.1.1, 2.1.2&lt;/font&gt;" style="align=center;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="OAI0SGLD_P9tGuehfoy9-8">
-          <mxGeometry y="50" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAI0SGLD_P9tGuehfoy9-2" target="OAI0SGLD_P9tGuehfoy9-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAI0SGLD_P9tGuehfoy9-2" target="OAI0SGLD_P9tGuehfoy9-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAI0SGLD_P9tGuehfoy9-2" target="OAI0SGLD_P9tGuehfoy9-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-55" target="OAI0SGLD_P9tGuehfoy9-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="870" y="-1954" />
-              <mxPoint x="1590" y="-1954" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-55" target="Juf2yomTsx4XNreJfSJN-105">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OAI0SGLD_P9tGuehfoy9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Z4n3mnKnEdZqS-omKwO-55" target="Juf2yomTsx4XNreJfSJN-128">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
