@@ -2446,10 +2446,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4" value="Mechanical Team&#xa;Nayera [Team Lead]&#xa;WBS Tasks: 1.1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#980000, #AD7777);strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-310" y="-1706" width="160" height="60" as="geometry" />
+          <mxGeometry x="-330" y="-1706" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Electrical &amp; Low-Level Team&#xa;Ahmed [Team Lead]&#xa;WBS Tasks: 1.2, 1.3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#980000, #AD7777);strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="-1706" width="160" height="60" as="geometry" />
+          <mxGeometry x="-140" y="-1706" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Science Team&#xa;Nabil [Team Lead]&#xa;WBS Tasks: 4.5, 5.1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#980000, #AD7777);strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="-1706" width="160" height="60" as="geometry" />
